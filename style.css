@@ -1,0 +1,127 @@
+.registeration{
+    height:500px;
+    width:400px;
+    border:5px solid green;
+    border-color:green;
+    margin:20%;
+    padding:40px;
+}
+.form{
+    margin-left: -10px;
+    
+}
+.register{
+    font-size:25px;
+    font-weight:10px;
+    text-align:center;
+    color:green;
+}
+.name{
+    height: 45px;
+    width: 100%;
+    margin: 40px 0;
+    color:green;
+
+
+}
+.email{
+    height: 45px;
+    width: 100%;
+    margin: 40px 0;
+    color:green;
+}
+.password{
+    height: 45px;
+    width: 100%;
+    margin: 40px 0;
+    color:green;
+}
+.confrim-password{
+    height: 45px;
+    width: 100%;
+    margin: 40px 0;
+    color:green;
+    
+}
+label{
+    padding:0px;
+    font-size: 15px;
+}
+input{
+    height: 100%;
+    width: 100%;
+    padding-left: 10px;
+    font-size: 17px;
+    border: 1px solid silver;
+    color:green;
+   
+}
+.submit{
+    height:50px;
+    width: 120%;
+    margin:80px 100px;
+
+}
+button{
+    height: 100%;
+    width: 40%;
+    background: none;
+    border: none;
+    color: #fff; 
+    background:green;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+/* -------------------------login----------------- */
+.registeration1{
+    height:400px;
+    width:400px;
+    border:5px solid green;
+    border-color:green;
+    margin:20%;
+    padding:40px;
+}
+.login-form{
+    margin-left:-15px;
+}
+a{
+    text-decoration:none;
+    color:green;
+}
+.other-link{
+    height:40px;
+    width:100%;
+    margin-top: -40px;
+    display: flex;
+    justify-content:space-between;
+}
+.forgot-password{
+    justify-content:flex-end;
+    margin-right:50px; 
+    text-decoration:none;
+    color:green;
+}
+.create-account{
+    margin-left:120px; 
+    text-decoration:none;
+    color:green;
+}
+/* -------------------------------------home---------------------- */
+.home{
+    /* background: lightseagreen; */
+    display: flex;
+    justify-content:space-between;
+    padding:30px;
+}
+#logo{
+    font-size:35px;
+}
+#list{
+    margin-top: 10px;
+}
+#list a{
+    margin:40px 0px -20px 30px;
+    font-size:20px;
+}
